@@ -1,0 +1,9 @@
+[package]
+name = "nib"
+version = "0.1.0"
+authors = ["tellen <tellen@informatik.uni-bonn.de>"]
+
+build = "tango-build.rs"
+
+[build-dependencies]
+tango = "0.5.0"
